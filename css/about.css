@@ -1,0 +1,48 @@
+.about {
+	margin: 0% 10%;
+	display: flex;
+	flex-direction: row;
+	background-color: #343451;
+
+}
+.about .para{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.about .para #para, #para1, #para2, #para3{
+	
+	border: 1px solid black;
+	margin-left: 50px;
+	border-radius: 10px;
+}
+.potfolio h2{
+	color: grey;
+}
+.about p:hover{
+	color: rgba(123, 131, 86, .8);
+	font-size: 17px;
+	box-shadow: 0 0 50px rgba(123, 131, 86, .8);
+	cursor: pointer;
+}
+.para p{
+
+	padding: 10px 10px;
+	width: 200px;
+	min-height: 50px;
+}
+.potfolio #about{
+	margin-left: 55%;
+	font-size: 50px;
+	color: white;
+}
+.para h3{
+	text-align: center;
+	padding-left: 40px;
+
+}
+.para h3:hover{
+	color: rgba(123, 131, 86, .8);
+	text-shadow: 0 0 50px rgba(123, 131, 86, .8);
+	cursor: pointer;
+}
