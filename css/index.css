@@ -79,7 +79,7 @@ nav .nav-bar li a{
 	display: flex;
 	flex-direction: row;
 	background-color: #343451;
-	height: 50%;
+	min-height: 20%;
 	padding-bottom: 4%;
 	margin-top:8% ;
 .potfolio #main, p{
